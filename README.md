@@ -11,7 +11,3 @@ Projekt jest stworzony z:
 * react ^16.8.6
 * express
 * cors
-
-## Źródło
-Program stworzony na podstawie tutoriala
-https://youtu.be/7CqJlxBYj-M
