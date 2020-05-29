@@ -9,5 +9,5 @@ Projekt jest stworzony z:
 * axios ^0.18.0
 * bootstrap ^4.3.1
 * react ^16.8.6
-* express
 * cors
+* express
